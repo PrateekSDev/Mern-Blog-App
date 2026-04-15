@@ -26,10 +26,3 @@ A simple full-stack blog application.
 2. Install dependencies: `npm install`
 3. Create `.env` file from `.env.example`.
 4. Start client: `npm run dev`
-
-## API Routes
-- `/api/auth`: register, login, refresh, logout
-- `/api/posts`: CRUD operations for blog posts
-# Mern-Blog-App
-# Mern-Blog-App
-# Mern-Blog-App
